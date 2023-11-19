@@ -9,6 +9,6 @@
 # Инструкция по работе
 По запросу программы необходимо ввести натуральное число N, далее программа выведет последовательность натуральных чисел.
 # Результаты тестирования
-![Тест 1](https://github.com/NikitaZamiatin/lab6/blob/main/scr9-1.png)
-![Тест 2](https://github.com/NikitaZamiatin/lab6/blob/main/scr9-2.png)
-![Тест 3](https://github.com/NikitaZamiatin/lab6/blob/main/scr9-3.png)
+![Тест 1](https://github.com/NikitaZamiatin/lab9/blob/main/scr9-1.png)
+![Тест 2](https://github.com/NikitaZamiatin/lab9/blob/main/scr9-2.png)
+![Тест 3](https://github.com/NikitaZamiatin/lab9/blob/main/scr9-3.png)
